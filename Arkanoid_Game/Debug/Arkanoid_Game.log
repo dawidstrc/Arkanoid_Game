@@ -1,0 +1,40 @@
+﻿  Arkanoid_Game.cpp
+C:\Users\1234\Documents\GitHub\Arkanoid_Game\Arkanoid_Game\Arkanoid_Game.cpp(71,20): warning C4018:  "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\1234\Documents\GitHub\Arkanoid_Game\Arkanoid_Game\Arkanoid_Game.cpp(73,21): warning C4018:  "<": niezgodność typu ze znakiem/bez znaku
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xmemory0(820,103): warning C4244:  "argument": konwersja z "unsigned int" do "float", możliwa utrata danych
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\vector(639): message :  zobacz odwołanie do kompilowanego wystąpienia „void std::_Default_allocator_traits<_Alloc>::construct<_Ty,unsigned int,unsigned int,unsigned int&,unsigned int&>(_Alloc &,_Objty *const ,unsigned int &&,unsigned int &&,unsigned int &,unsigned int &)” funkcji szablon
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\vector(639): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\vector(639): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\vector(639): message :             _Alloc=std::allocator<Block>,
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\vector(639): message :             _Ty=Block,
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\vector(639): message :             _Objty=Block
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\vector(639): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\vector(644): message :  zobacz odwołanie do kompilowanego wystąpienia „void std::_Default_allocator_traits<_Alloc>::construct<_Ty,unsigned int,unsigned int,unsigned int&,unsigned int&>(_Alloc &,_Objty *const ,unsigned int &&,unsigned int &&,unsigned int &,unsigned int &)” funkcji szablon
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\vector(644): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\vector(644): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\vector(644): message :             _Alloc=std::allocator<Block>,
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\vector(644): message :             _Ty=Block,
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\vector(644): message :             _Objty=Block
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\vector(644): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\vector(657): message :  zobacz odwołanie do kompilowanego wystąpienia „void std::vector<Block,std::allocator<_Ty>>::_Emplace_back_with_unused_capacity<unsigned int,unsigned int,unsigned int&,unsigned int&>(unsigned int &&,unsigned int &&,unsigned int &,unsigned int &)” funkcji szablon
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\vector(657): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\vector(657): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\vector(657): message :             _Ty=Block
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\vector(657): message :         ]
+C:\Users\1234\Documents\GitHub\Arkanoid_Game\Arkanoid_Game\Arkanoid_Game.cpp(75): message :  zobacz odwołanie do kompilowanego wystąpienia „void std::vector<Block,std::allocator<_Ty>>::emplace_back<unsigned int,unsigned int,unsigned int&,unsigned int&>(unsigned int &&,unsigned int &&,unsigned int &,unsigned int &)” funkcji szablon
+C:\Users\1234\Documents\GitHub\Arkanoid_Game\Arkanoid_Game\Arkanoid_Game.cpp(75): message :         with
+C:\Users\1234\Documents\GitHub\Arkanoid_Game\Arkanoid_Game\Arkanoid_Game.cpp(75): message :         [
+C:\Users\1234\Documents\GitHub\Arkanoid_Game\Arkanoid_Game\Arkanoid_Game.cpp(75): message :             _Ty=Block
+C:\Users\1234\Documents\GitHub\Arkanoid_Game\Arkanoid_Game\Arkanoid_Game.cpp(75): message :         ]
+  Ball.cpp
+  Block.cpp
+  Paddle.cpp
+  Generowanie kodu...
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xmemory0(820,103): warning C4244:  "argument": konwersja z "_Ty" do "float", możliwa utrata danych
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xmemory0(820,103): warning C4244:         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xmemory0(820,103): warning C4244:         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xmemory0(820,103): warning C4244:             _Ty=unsigned int
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xmemory0(820,103): warning C4244:         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xmemory0(820,103): warning C4244: C:\Users\1234\Documents\GitHub\Arkanoid_Game\Arkanoid_Game\Arkanoid_Game.cpp(59) : warning C4715: "collisionTest”: niewszystkie ścieżki kodu zwracają wartość
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xmemory0(820,103): warning C4244: C:\Users\1234\Documents\GitHub\Arkanoid_Game\Arkanoid_Game\Arkanoid_Game.cpp(31) : warning C4715: "collisionTest”: niewszystkie ścieżki kodu zwracają wartość
+  Arkanoid_Game.vcxproj -> C:\Users\1234\Documents\GitHub\Arkanoid_Game\Debug\Arkanoid_Game.exe
